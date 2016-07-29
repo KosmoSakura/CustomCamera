@@ -1,0 +1,1 @@
+include ':CustomCamera', ':3DGallary', ':android6'
